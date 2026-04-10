@@ -1,5 +1,4 @@
 <?php
-
 define('PRATO_1', 'Macarronada');
 define('PRATO_2', 'Vaca atolada');
 define('PRATO_3', 'Ove poche');
